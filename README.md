@@ -1,4 +1,4 @@
-# ⚽ Red neuronal para estimar la calidad de un jugador de fútbol
+# Red neuronal para estimar la calidad de un jugador de fútbol
 
 Red neuronal profunda en **TensorFlow / Keras**, entrenada con **SGD + momentum**, que clasifica a los jugadores de FIFA 19 en 4 niveles de calidad (*Poor, Intermediate, Good, Excellent*) a partir de 22 habilidades. El proyecto sigue un **proceso de diseño sistemático**, ajustando un hiperparámetro en cada fase, y analiza el resultado en términos de **sesgo y varianza** respecto al error de un experto humano.
 
@@ -9,7 +9,7 @@ Red neuronal profunda en **TensorFlow / Keras**, entrenada con **SGD + momentum*
 
 > Práctica de la asignatura **Aprendizaje Automático II** (Grado en Ciencia de Datos e Inteligencia Artificial, UPM · curso 2025-26), realizada en grupo.
 
-**👉 [Ver el notebook completo](notebooks/red_neuronal_sgd_momentum.ipynb)**
+**[Ver el notebook completo](notebooks/red_neuronal_sgd_momentum.ipynb)**
 
 ---
 
@@ -90,9 +90,7 @@ Entrenar todos los experimentos lleva unos 15 minutos en CPU. Como no se fijó l
 Proyecto en grupo para Aprendizaje Automático II (UPM):
 
 - **Antía Sande Fernández** · [GitHub](https://github.com/antiasande)
-- *[Compañero/a 2]*
-- *[Compañero/a 3]*
-- *[Compañero/a 4]*
+
 
 ## Tecnologías
 
